@@ -164,6 +164,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\path-kata\Path.cpp" />
+    <ClCompile Include="..\path-kata\PathsUtils.cpp" />
     <ClCompile Include="..\path-kata\Point.cpp" />
     <ClCompile Include="..\path-kata\Segment.cpp" />
     <ClCompile Include="DummyTests.cpp" />
@@ -172,6 +173,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\path-kata\Path.h" />
+    <ClInclude Include="..\path-kata\PathsUtils.h" />
     <ClInclude Include="..\path-kata\Point.h" />
     <ClInclude Include="..\path-kata\Segment.h" />
   </ItemGroup>

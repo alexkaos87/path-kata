@@ -156,6 +156,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Path.cpp" />
+    <ClCompile Include="PathsUtils.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Segment.cpp" />
     <ClCompile Include="stdafx.cpp">
@@ -167,6 +168,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Path.h" />
+    <ClInclude Include="PathsUtils.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="Segment.h" />
     <ClInclude Include="stdafx.h" />

@@ -36,6 +36,9 @@
     <ClCompile Include="PathTests.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\path-kata\PathsUtils.cpp">
+      <Filter>Production</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\path-kata\Point.h">
@@ -45,6 +48,9 @@
       <Filter>Production</Filter>
     </ClInclude>
     <ClInclude Include="..\path-kata\Path.h">
+      <Filter>Production</Filter>
+    </ClInclude>
+    <ClInclude Include="..\path-kata\PathsUtils.h">
       <Filter>Production</Filter>
     </ClInclude>
   </ItemGroup>
